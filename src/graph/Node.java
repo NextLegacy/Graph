@@ -1,5 +1,10 @@
 package graph;
 
+/**
+ * A node in a graph.
+ * 
+ * @author NextLegacy
+ */
 public class Node<T>
 {
     boolean visited;
