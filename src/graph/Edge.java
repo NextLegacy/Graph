@@ -1,5 +1,10 @@
 package graph;
 
+/**
+ * An edge in a graph.
+ * 
+ * @author NextLegacy
+ */
 public class Edge<T>
 {
     private Node<T> from;
