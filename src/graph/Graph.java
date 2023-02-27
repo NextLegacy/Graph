@@ -2,6 +2,13 @@ package graph;
 
 import static graph.utils.ArrayUtils.*;
 
+/**
+ * This class represents a graph.
+ * 
+ * @param <T> the type of the data stored in the nodes of the graph
+ * 
+ * @author NextLegacy
+ */
 public class Graph<T>
 {
     private Node<T>[] nodes;
